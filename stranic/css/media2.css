@@ -1,0 +1,7 @@
+@media (max-width: 850px) {
+    .burger .grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+
